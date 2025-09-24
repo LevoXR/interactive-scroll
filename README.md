@@ -1,19 +1,28 @@
-# Scroll Snap Demo
+# Interactive Scroll Demo
 
-This project lets you demo and learn about CSS scroll snap by easily scrolling between category pages (Home, Vlog, Services, Help), each filling the screen.
+Easily demo CSS scroll snap for one-page interactive navigation. Scroll to instantly switch between Home, Vlog, Services, and Help sections—each snapping perfectly into view.
 
-## Try It
+---
 
-Simply open `index.html` in any browser. Scroll down/up with your mouse, trackpad, or arrow keys to jump between categories.
+## 🚀 Features
 
-## How It Works
+- **Full-page category sections:** Home, Vlog, Services, Help
+- **Pure CSS scroll snap:** No JavaScript required for navigation
+- **Instant vertical paging:** Just scroll to jump between sections
+- **Clean, responsive design:** Works on desktop and mobile
+- **Simple file structure:** Easy to understand and extend
 
-- Uses [CSS scroll snap](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_scroll_snap/Basic_concepts) for smooth, locked vertical page switching.
-- Each section snaps to the viewport edge—no JavaScript needed.
+---
 
-## Learn More
+## 📦 File Structure
 
-- [MDN: Basic concepts of scroll snap](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_scroll_snap/Basic_concepts)
-- [W3Schools: scroll-snap-type](https://www.w3schools.com/cssref/css_pr_scroll-snap-type.php)
+- `index.html`  — All the markup for the sections and scroller
+- `style.css`   — Styling, scroll snap properties, colors
+- `README.md`   — Instructions and info
 
-Feel free to fork and modify for your own multi-section storytelling or navigation demos!
+---
+
+## 🛠️ Getting Started
+
+Clone and run the project locally in a few simple steps:
+
